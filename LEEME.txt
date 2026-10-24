@@ -1,0 +1,12 @@
+MODO VIAJE — ARCHIVOS PARA SUBIR
+
+Sube el contenido de esta carpeta a la carpeta del dominio en tu hosting:
+index.html
+estilos.css
+script.js
+imagenes/
+
+Conserva los nombres y la estructura de las carpetas.
+No necesita instalación, base de datos ni compilación.
+Esta entrega no incluye política de datos: se añadirá cuando facilites sus datos.
+Las actividades funcionan en el navegador y no guardan las selecciones.
